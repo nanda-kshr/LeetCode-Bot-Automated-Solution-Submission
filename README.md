@@ -2,6 +2,11 @@
 
 LeetCode Bot is a powerful tool designed to automate the process of solving and submitting coding problems on LeetCode. This bot fetches problems, generates solutions using an AI code generator, and submits them back to LeetCode, verifying the results for successful execution and submission.
 
+---
+I am not maintaining this repo, open for contributions
+---
+
+
 ## Features
 
 - Automated problem fetching from LeetCode.
