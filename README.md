@@ -4,7 +4,7 @@ LeetCode Bot is a powerful tool designed to automate the process of solving and 
 
 ---
 
-I am not maintaining this repo, open for contributions
+I am not maintaining this repo, open for contributions. Also they have started cloudflare captcha after a rate limit.
 
 ---
 
